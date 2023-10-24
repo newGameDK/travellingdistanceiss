@@ -5,7 +5,7 @@ Med koden her, kan din @boardname@ regne ud hvor langt ISS har rejst
 * Slet de to blokke: "når programmet starter" og "for altid"
 
 ## Tryk på knap A
-For at bruge knap A, skal du finde en blok til hvis A knappen bliver trykket ind. 
+`||Button.A:knap A||`For at bruge knap A, skal du finde en blok til hvis A knappen bliver trykket ind. 
 * Du kan få et hint ved at trykke på ledetråd knappen.
 
 ```blocks
